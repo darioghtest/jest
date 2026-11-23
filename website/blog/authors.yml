@@ -55,3 +55,10 @@ MillerSvt:
   image_url: https://github.com/MillerSvt.png
   socials:
     github: MillerSvt
+paragraph-team:
+  image_url: https://github.com/paragraph-xyz.png
+  name: Paragraph Team
+  socials:
+    github: paragraph-xyz
+    x: paragraph_xyz
+  url: https://x.com/paragraph_xyz
